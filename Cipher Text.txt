@@ -1,0 +1,8 @@
+For the Plain Text - 'Hello this is a Survey on Cryptoraphic Algorithms'
+
+1) Ceaser Cipher = Lipps$xlmw$mw$e$Wyvzi}$sr$Gv}txsvetlmg$EpksvmxlqwLipps$xlmw$mw$e$Wyvzi}$sr$Gv}txsvetlmg$EpksvmxlqwLipps$xlmw$mw$e$Wyvzi}$sr$Gv}txsvetlmg$Epksvmxlqw
+2) ROT13 Cipher = Hryyb guvf vf n Sheirl ba Celcgbencuvp AytbevguzfHryyb guvf vf n Sheirl ba Celcgbencuvp AytbevguzfHryyb guvf vf n Sheirl ba Celcgbencuvp Aytbevguzf
+3) Transposition Cipher = H   e thltH   e thltH   e thltetiSyCoigh tiSyCoigh tiSyCoighlhsu rrcom hsu rrcom hsu rrcomli roya rs i roya rs i roya rsosavnppAi esavnppAi esavnppAi 
+4) Multiplicative Cipher = xczzu dxew ew a wkprcm un opmbdupabxeo azqupedxgwxczzu dxew ew a wkprcm un opmbdupabxeo azqupedxgwxczzu dxew ew a wkprcm un opmbdupabxeo azqupedxgw
+5) Data Encryption Standard Cipher = b'\xaeo\x96~*\x97|.\x08\xeb\x12\xe7puZ\xa4\x7f\x8b\n\xa0\xa5\xcb\xe0\x07E\xd8\xcf\x18\x86\xded\x04s\x05+\xd2\x12f\xfd\x0f~\x90]\xa1Hiu\xcc\xe7:?\xa3\xa8?\xeb\x15'
+6) Advanced Encryption Standard Cipher = b'\xb0\xbf\x0f\xdb\xb2\xf9\x82Tw)=A\xa9\x96\x00\n\xe3\'\x15Y"gs\xa4\xf6\xee\x95F\xa3\xc9\xc1h\xbfZ:<a\xbf\xa7^CHj\xd1\xa9\x12\xc5,\xb1'
